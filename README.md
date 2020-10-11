@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view the react project as a netlify application using the url https://weather-0810.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
